@@ -22,6 +22,7 @@ function App() {
 
       <div>
         <h2>Cart</h2>
+        <p> PLEDDKFJDFKJDKJFKDJFKJ</p>
         {/* TODO: render a list of items in the cart */}
       </div>
     </div>
